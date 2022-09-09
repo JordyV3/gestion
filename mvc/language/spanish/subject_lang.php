@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] 	= "Asignatura";
+$lang['add_title'] 	= "Agregar Asignatura";
+$lang['slno'] 	= "#";
+$lang['subject_class_name'] 	= "Nombre de la clase";
+$lang['subject_teacher_name'] 	= "Nombre del Docente";
+$lang['subject_student'] 	= "Estudiante";
+$lang['subject_name'] 	= "Nombre del Asignatura";
+$lang['subject_author'] 	= "Autor de la Asignatura";
+$lang['subject_code'] 	= "Código de Asignatura";
+$lang['subject_teacher'] 	= "Docente";
+$lang['subject_classes'] 	= "Clase";
+$lang['subject_type'] 	= "Tipo";
+$lang['subject_optional'] 	= "Opcional";
+$lang['subject_mandatory'] 	= "Obligatorio";
+$lang['subject_passmark'] 	= "Promedio de aprobación";
+$lang['subject_finalmark'] 	= "Promedio final";
+$lang['subject_select_class'] 	= "Seleccionar clase";
+$lang['subject_select_type'] 	= "Seleccionar tipo";
+$lang['subject_select_classes'] 	= "Seleccionar clase";
+$lang['subject_select_teacher'] 	= "Seleccionar profesor";
+$lang['subject_select_student'] 	= "Seleccionar estudiante";
+$lang['action'] 	= "Acción";
+$lang['view'] 	= 'Ver';
+$lang['edit'] 	= 'Editar';
+$lang['delete'] 	= 'Eliminar';
+$lang['add_subject'] 	= 'Agregar Asignatura';
+$lang['update_subject'] 	= 'Actualizar Asignatura';

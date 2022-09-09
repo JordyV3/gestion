@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-03-25 10:56:47 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 10:58:17 --> 404 Page Not Found: Frontend/apple-touch-icon.png
+ERROR - 2019-03-25 10:59:56 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 11:30:42 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 11:31:39 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 13:32:20 --> 404 Page Not Found: Frontend/apple-touch-icon.png
+ERROR - 2019-03-25 13:32:26 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 14:40:05 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 14:45:34 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 14:47:31 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 15:18:08 --> Severity: Notice --> Undefined index: LUNES C:\XAMPP\xampp\htdocs\lessonprime\mvc\views\routine\index.php 103
+ERROR - 2019-03-25 15:18:08 --> Severity: Notice --> Undefined index: LUNES C:\XAMPP\xampp\htdocs\lessonprime\mvc\views\routine\index.php 169
+ERROR - 2019-03-25 15:50:13 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 18:05:08 --> Severity: Notice --> Undefined variable: varifyValidUser C:\XAMPP\xampp\htdocs\lessonprime\mvc\models\Signin_m.php 74
+ERROR - 2019-03-25 18:32:13 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:34:46 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:36:37 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:38:17 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:40:15 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:44:25 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:46:18 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:47:02 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:48:13 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:48:58 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:50:00 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:51:30 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:52:49 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:54:02 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 18:56:03 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 19:00:53 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\XAMPP\xampp\htdocs\lessonprime\main\libraries\Email.php 1902
+ERROR - 2019-03-25 19:06:09 --> 404 Page Not Found: Group/index
+ERROR - 2019-03-25 19:08:57 --> 404 Page Not Found: Student-group/index
+ERROR - 2019-03-25 19:09:01 --> 404 Page Not Found: Student_group/index
+ERROR - 2019-03-25 19:38:17 --> 404 Page Not Found: Frontend/apple-touch-icon.png

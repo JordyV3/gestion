@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] 	= "Compra";
+$lang['add_title'] 	= "Agregar compra";
+$lang['slno'] 	= "#";
+$lang['purchase_title'] 	= "Título";
+$lang['purchase_assetID'] 	= "Activo";
+$lang['purchase_quantity'] 	= "Cantidad";
+$lang['purchase_unit'] 	= "Unidad";
+$lang['purchase_vendorID'] 	= "Proveedor";
+$lang['purchase_date'] 	= "Fecha de compra";
+$lang['purchase_unit_kg'] 	= "Kg";
+$lang['purchase_unit_piece'] 	= "Pieza";
+$lang['purchase_unit_other'] 	= "Otro";
+$lang['purchase_unit'] 	= "Unidad";
+$lang['purchase_select_unit'] 	= "Seleccionar unidad";
+$lang['purchase_service_date'] 	= "Fecha de servicio";
+$lang['purchase_expire_date'] 	= "Fecha de expiración";
+$lang['purchase_price'] 	= "Precio de compra";
+$lang['purchased_by'] 	= "Compra por";
+$lang['purchase_select_asset'] 	= "Seleccionar activo";
+$lang['purchase_select_vendor'] 	= "Seleccionar proveedor";
+$lang['purchase_select_purchased_by'] 	= "Seleccionar usuario";
+$lang['action'] 	= "Acción";
+$lang['view'] 	= 'Ver';
+$lang['edit'] 	= 'Editar';
+$lang['delete'] 	= 'Eliminar';
+$lang['purchase_status_not_approved'] 	= 'No aprobado';
+$lang['purchase_status_approved'] 	= 'Aprobado';
+$lang['add_purchase'] 	= 'Agregar compra';
+$lang['update_purchase'] 	= 'Actualizar compra';

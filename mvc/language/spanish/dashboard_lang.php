@@ -1,0 +1,42 @@
+<?php
+
+$lang['panel_title'] 	= "Dashboard";
+$lang['dashboard_notice'] 	= "Aviso";
+$lang['dashboard_username'] 	= "Nombre de usuario";
+$lang['dashboard_email'] 	= "Correo electrónico";
+$lang['dashboard_phone'] 	= "Teléfono";
+$lang['dashboard_address'] 	= "Dirección";
+$lang['dashboard_libraryfee'] 	= "Cuota de biblioteca";
+$lang['dashboard_transportfee'] 	= 'Tarifa de transporte';
+$lang['dashboard_hostelfee'] 	= 'Cuota de albergue';
+	
+$lang['dashboard_student_today_attendance'] 	= "Asistencia a clases de estudiantes (hoy)";
+$lang['dashboard_student_today_attendance_subtitle'] 	= "Haga clic en las columnas para ver la asistencia de este mes del estudiante";
+$lang['dashboard_student_this_month_daywise_attendance'] 	= "Asistencia del estudiante por asignatura de este mes";
+$lang['dashboard_student_this_month_subject_attendance'] 	= "Asistencia del estudiante total de este mes";
+$lang['dashboard_earning_graph'] 	= "Gráfico de ganancia";
+$lang['dashboard_earning_summary'] 	= "Resumen de cuentas";
+$lang['dashboard_earning_summary_subtitle']	= "Haga clic en la columna de ingresos o gastos del mes para ver el resumen diario de la cuenta";
+$lang['dashboard_per_day_attendance'] 	= 'Asistencia por día';
+$lang['dashboard_notpaid'] 	= "No pagado";
+$lang['dashboard_partially_paid'] 	= "Parcialmente pagado";
+$lang['dashboard_fully_paid'] 	= "Totalmente pagado";
+$lang['dashboard_month'] 	= "Mes";
+$lang['dashboard_amount'] 	= "Cantidad";
+$lang['dashboard_income'] 	= "Ingreso";
+$lang['dashboard_expense'] 	= "Gastos";
+$lang['dashboard_class'] 	= "Clase";
+$lang['dashboard_present'] 	= "Presente";
+$lang['dashboard_absent'] 	= "Ausente";
+$lang['dashboard_day'] 	= "Día";
+$lang['dashboard_date'] 	= "Fecha";
+$lang['dashboard_visitors'] 	= "Visitantes";
+$lang['dashboard_site_stats'] 	= "Estadísticas del sitio";
+$lang['dashboard_attendance'] 	= "Asistencia";
+$lang['dashboard_cash'] 	= "Efectivo";
+$lang['dashboard_cheque'] 	= "Cheque";
+$lang['dashboard_paypal'] 	= "Paypal";
+$lang['dashboard_stripe'] 	= "Stripe";
+$lang['dashboard_sample'] 	= "Muestra";
+$lang['dashboard_back'] 	= "Atrás";
+$lang['view'] 	= "Ver";

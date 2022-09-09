@@ -1,0 +1,77 @@
+<?php
+
+$lang['slno']        	= "#";
+$lang['panel_title'] 	= "Solicitar Permiso";
+$lang['leaveapplication_name']  	= 'Nombre';
+$lang['leaveapplication_type']  	= 'Tipo';
+$lang['leaveapplication_designation']  	= 'Designación';
+$lang['leaveapplication_dob']          	= 'Fecha de nacimiento';
+$lang['leaveapplication_jod']          	= 'Fecha de ingreso';
+$lang['leaveapplication_address']      	= 'Dirección';
+$lang['leaveapplication_phone']        	= 'Teléfono';
+$lang['leaveapplication_religion']     	= 'Religión';
+$lang['leaveapplication_gender']       	= 'Género';
+$lang['leaveapplication_roll']         	= 'Rol';
+$lang['leaveapplication_class']        	= 'Clase';
+$lang['leaveapplication_section']      	= 'Sección';
+$lang['leaveapplication_registerNO']   	= 'Registrar NO';
+$lang['leaveapplication_applicant']  	= "Solicitante";
+$lang['leaveapplication_applicant_to']  	= "Solicitante a";
+$lang['leaveapplication_category']     	= "Categoría";
+$lang['leaveapplication_date']         	= "Fecha";
+$lang['leaveapplication_create_date']  	= "Crear fecha";
+$lang['leaveapplication_role']         	= "Rol";
+$lang['leaveapplication_od_status']       	= "¿En licencia de servicio?";
+$lang['leaveapplication_od_status_true']  	= "Verdadero";
+$lang['leaveapplication_od_status_yes']   	= "Sí";
+$lang['leaveapplication_od_status_false'] 	= "Falso";
+$lang['leaveapplication_od_status_no'] 	= "No";
+$lang['leaveapplication_schedule']        	= "Horario";
+$lang['leaveapplication_from_date']       	= "Desde la fecha";
+$lang['leaveapplication_to_date']         	= "Hasta la fecha";
+$lang['leaveapplication_days']            	= "Días";
+$lang['leaveapplication_leavedays']       	= "Día de salida";
+$lang['leaveapplication_holidays']        	= "Vacaciones";
+$lang['leaveapplication_weekenddays']     	= "Día del fin de semana";
+$lang['leaveapplication_total_days']      	= "Día total";
+$lang['leaveapplication_reason']          	= "Razón";
+$lang['leaveapplication_attachment']      	= "Adjunto";
+$lang['leaveapplication_file_browse']     	= 'Explorar archivo';
+$lang['leaveapplication_status']          	= 'Estado';
+	
+$lang['leaveapplication_status_pending']     	= "Pendiente";
+$lang['leaveapplication_status_approve']     	= "Aprobar";
+$lang['leaveapplication_status_decline']     	= "Rechazar";
+$lang['leaveapplication_status_approved']    	= "Aprobado";
+$lang['leaveapplication_status_declined']    	= "Rechazado";
+$lang['leaveapplication_application_status'] 	= "Estado de la Solicitud";
+$lang['leaveapplication_deleted'] 	= "Eliminado";
+$lang['leaveapplication_availableleavedays'] 	= "Días de licencia disponibles";
+	
+$lang['view']        	= 'Ver';
+$lang['print']       	= 'Imprimir';
+$lang['action']      	= "Acción";
+$lang['download']      	= "Descargar";
+$lang['pdf_preview'] 	= 'Vista previa PDF';
+$lang["mail"]        	= "Enviar Pdf al correo";
+	
+$lang['to']           	= 'A';
+$lang['subject']      	= 'Asignatura';
+$lang['subject_email'] 	= 'Asunto';
+$lang['message']      	= 'Mensaje';
+$lang['send']         	= 'Enviar';
+$lang['mail_to']      	= "El campo Para es obligatorio";
+$lang['mail_valid']   	= "El campo Para debe contener una dirección de correo electrónico válida";
+$lang['mail_subject'] 	= "El campo Asunto es obligatorio";
+$lang['mail_success'] 	= 'Correo electrónico enviado con éxito';
+$lang['mail_error']   	= 'Uups, el correo electrónico no se envía';
+	
+$lang['leaveapplication_to'] 	= 'A';
+$lang['leaveapplication_subject'] 	= 'Asignatura';
+$lang['leaveapplication_message'] 	= 'Mensaje';
+$lang['leaveapplication_leaveapplicationID'] 	= 'ID de Permiso';
+$lang['leaveapplication_data_not_found'] 	= "No hay ningún dato por el momento";
+$lang['leaveapplication_permissionmethod'] 	= "Método no permitido";
+$lang['leaveapplication_permission'] 	= "Permiso no permitido";
+$lang['leaveapplication_type'] 	= "Tipo";
+$lang['leaveapplication_parents'] 	= "Padres";

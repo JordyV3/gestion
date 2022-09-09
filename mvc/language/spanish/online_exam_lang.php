@@ -1,0 +1,79 @@
+<?php
+
+$lang['panel_title']                    	= "Examen Online";
+$lang['add_title']                      	= "Agregar examen Online";
+$lang['slno']                           	= "#";
+$lang['online_exam_name']               	= "Título del examen";
+$lang['online_exam_description']        	= "Descripción";
+$lang['online_exam_usertype']           	= "Función de usuario";
+$lang['online_exam_type']               	= "Tipo de examen";
+$lang['online_exam_instruction']        	= "Instrucción";
+$lang['online_exam_class']              	= "Clase";
+$lang['online_exam_section']            	= "Sección";
+$lang['online_exam_studentGroup']       	= "Grupo de estudiantes";
+$lang['online_exam_subject']            	= "Asignatura";
+$lang['online_exam_duration']           	= "Duración";
+$lang['online_exam_startdatetime']      	= "Fecha de inicio";
+$lang['online_exam_enddatetime']        	= "Fecha de finalización";
+$lang['online_exam_negativeMark']       	= "Calificación negativa";
+$lang['online_exam_random']             	= "Aleatorio";
+$lang['online_exam_markType']        		= "Tipo de calificación";
+$lang['online_exam_percentage']         	= "Porcentaje";
+$lang['online_exam_fixed']         			= "Fijo";
+$lang['online_exam_passValue']         		= "Calificación de aprobación";
+$lang['online_exam_validDays']          	= "Días válidos";
+$lang['online_exam_cost']               	= "Costo";
+$lang['online_exam_judge']              	= "Juez";
+$lang['online_exam_auto']               	= "Auto";
+$lang['online_exam_manually']           	= "Manualmente";
+$lang['online_exam_ispaid']             	= "Se paga";
+$lang['online_exam_free']               	= "Gratis";
+$lang['online_exam_paid']               	= "Pagado";
+$lang['online_exam_random_placeholder'] 	= "Random max question";
+$lang['online_exam_add']                	= "Agregar";
+$lang['action']                         	= "Acción";
+$lang['online_exam_total']              	= "Total";
+	
+$lang['online_exam_question']           	= "Pregunta";
+$lang['online_exam_remove_question']    	= "Eliminar pregunta";
+$lang['online_exam_question_type']      	= "Tipo de pregunta";
+$lang['online_exam_add_question']       	= "Agregar pregunta";
+$lang['online_exam_question_summary']   	= "Resumen de preguntas";
+$lang['online_exam_question_bank']      	= "Banco de preguntas";
+$lang['online_exam_question_mark']      	= "Calificación";
+$lang['online_exam_associate_question'] 	= "Pregunta asociada";
+$lang['online_exam_question_level']     	= "Nivel de dificultad";
+$lang['online_exam_question_group']     	= "Grupo de preguntas";
+$lang['online_exam_no_question']        	= "No tengo ninguna pregunta todavía";
+$lang['online_exam_examStatus']         	= "Estado del examen";
+$lang['online_exam_onetime']            	= "Una vez";
+$lang['online_exam_multipletime']       	= "Tiempo múltiple";
+$lang['online_exam_published']          	= "Publicado";
+$lang['online_exam_minutes']            	= "Minutos";
+$lang['online_exam_yes']         	= "Sí";
+$lang['online_exam_no']          	= "No";
+	
+$lang['online_exam_select'] 	= "Seleccione";
+	
+$lang['view']        	= 'Ver';
+$lang['edit']        	= 'Editar';
+$lang['delete']      	= 'Eliminar';
+$lang['print']       	= 'Imprimir';
+$lang['addquestion'] 	= 'Agregar pregunta';
+$lang['pdf_preview'] 	= 'Vista previa PDF';
+$lang["mail"]        	= "Enviar Pdf al correo";
+	
+$lang['add_class']    	= 'Agregar examen Online';
+$lang['update_class'] 	= 'Actualizar examen Online';
+	
+$lang['to']           	= 'A';
+$lang['subject']      	= 'Asignatura';
+$lang['subject_email'] 	= 'Asunto';
+$lang['message']      	= 'Mensaje';
+$lang['send']         	= 'Enviar';
+$lang['mail_to']      	= "El campo Para es obligatorio";
+$lang['mail_valid']   	= "El campo Para debe contener una dirección de correo electrónico válida";
+$lang['mail_subject'] 	= "El campo Asunto es obligatorio";
+$lang['mail_success'] 	= 'Correo electrónico enviado con éxito';
+$lang['mail_error'] 	= 'Uups, el correo electrónico no se envía';
+$lang['exam_type'] 	= 'Tipo de examen';

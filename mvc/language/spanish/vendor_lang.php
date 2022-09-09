@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] 	= "Vendedor";
+$lang['add_title'] 	= "Agregar vendedor";
+$lang['slno'] 	= "#";
+$lang['vendor_name'] 	= "Nombre";
+$lang['vendor_phone'] 	= "Teléfono";
+$lang['vendor_email'] 	= "Correo electrónico";
+$lang['vendor_contact_name'] 	= "Nombre de contacto";
+$lang['vendor_add'] 	= "Agregar";
+$lang['action'] 	= "Acción";
+$lang['view'] 	= 'Ver';
+$lang['edit'] 	= 'Editar';
+$lang['delete'] 	= 'Eliminar';
+$lang['print'] 	= 'Imprimir';
+$lang['pdf_preview'] 	= 'Vista previa PDF';
+$lang["mail"] 	= "Enviar Pdf al correo";
+$lang['add_vendor'] 	= 'Agregar vendedor';
+$lang['update_vendor'] 	= 'Actualizar vendedor';
+$lang['to'] 	= 'A';
+$lang['subject'] 	= 'Asignatura';
+$lang['subject_email'] 	= 'Asunto';
+$lang['message'] 	= 'Mensaje';
+$lang['send'] 	= 'Enviar';
+$lang['mail_to'] 	= "El campo Para es obligatorio";
+$lang['mail_valid'] 	= "El campo Para debe contener una dirección de correo electrónico válida";
+$lang['mail_subject'] 	= "El campo Asunto es obligatorio";
+$lang['mail_success'] 	= 'Correo electrónico enviado con éxito';
+$lang['mail_error'] 	= 'Uups! Correo electrónico no enviar ';

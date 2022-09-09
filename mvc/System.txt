@@ -1,0 +1,3 @@
+Sistema de Gestion Escolar,
+esta plataforma fue desarrollada en base a los requerimientos
+de una institución educativa.

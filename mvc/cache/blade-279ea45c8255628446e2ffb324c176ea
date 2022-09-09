@@ -1,0 +1,16 @@
+a:3:{s:4:"time";i:1557787067;s:3:"ttl";i:3600;s:4:"data";s:418:"
+
+<?php $this->_section_start('content'); ?>
+	<section id="about" class="about-area area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<img src="<?php echo  base_url('uploads/404/404.jpg') ; ?>" alt="">
+    				<h1> Error 404 </h1>
+				</div> 
+			</div>
+		</div>
+	</section>
+<?php $this->_section_end(); ?>
+<?php echo $this->_include('views/layouts/master'); ?>
+";}
